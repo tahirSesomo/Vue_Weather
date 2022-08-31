@@ -1,5 +1,7 @@
-# weather-app
+# Weather App
 
+## See All World Cities Weather From Your Device :grin: :grin:
+------------------------------------------------------------------
 ## Project setup
 ```
 yarn install
