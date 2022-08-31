@@ -25,6 +25,4 @@ yarn lint
 # Live View
 https://630f42bf5d298513394553a0--tiny-cocada-216529.netlify.app/
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
 # Vue_Weather
